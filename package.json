@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
