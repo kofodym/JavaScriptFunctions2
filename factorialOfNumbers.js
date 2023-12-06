@@ -8,6 +8,7 @@ function factorial(n) {
 
   //    for loop is used to calculate the factorial of a given number by iterating from the given number down to 1
   for (let i = 1; i <= n; i++) {
+    // ! = n * (n-1) ....
     factorialProduct = factorialProduct * i;
   }
   return factorialProduct;
